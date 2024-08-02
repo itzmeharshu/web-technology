@@ -1,0 +1,62 @@
+<!-- *{
+    
+    padding: 0;
+    box-sizing: 0;
+    border: 0;
+}
+.main{
+    /* background-color: white; */
+    border-color: black;
+    background-color: white;
+    /*  width: 200px; */
+    /* height: 200px; */
+    text-align: center;
+}
+h1{
+    background-color: white;
+}
+table{
+    background-color: white;
+}
+td{
+    background-color: white;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 20px;
+}
+body {
+    background-image: url("https://img.freepik.com/free-photo/office-supplies_23-2148103974.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1720742400&semt=ais_user");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    height: 100vh;
+    /* background-color: #f1f1f1; */
+}
+-->
+.main{
+    background-color: white;
+    position: relative;
+    left:20px;
+    border-radius: 30px;
+
+}
+.main {
+    background-color:white;
+
+    padding: 20px; 
+    margin: 0 auto; 
+    width: 35%; 
+}
+button:hover{
+    background-color:#96C9F4;
+    position: relative;
+    left: 20px;
+    border-radius: 30px;
+
+}
+.main:hover{
+    background-color:#96C9F4;
+    position: relative;
+    left: 20px;
+    border-radius: 30px;
+}
